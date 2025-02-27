@@ -1,1 +1,2 @@
-# This is a repository containing my work about quadruped control, which is my final year project in NUSRI  
+# 2025.2.27
+This repository contains my final year project in NUSRI, which focuses on quadruped control.
